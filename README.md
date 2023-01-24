@@ -36,8 +36,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-NKrZrjfEgd)
+- Live Site URL: [GitHub](https://nicoams.github.io/four-card-feature-section/)
 
 ## My process
 
